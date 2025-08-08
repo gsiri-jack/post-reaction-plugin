@@ -3,7 +3,7 @@
  * Plugin Name: Post Reactions Plugin
  * Description: Adds emoji-style reactions to posts.
  * Version: 1.0
- * Author: Jack Buddy
+ * Author: Jack
  */
 
 define('PRP_PATH', plugin_dir_path(__FILE__));
